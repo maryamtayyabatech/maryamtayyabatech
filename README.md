@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi 👋, I'm Maryam Tayyaba
 
-<!--
-**maryamtayyabatech/maryamtayyabatech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer | 🎨 UI Enthusiast | 📊 Accountant
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+- 🌱 I’m currently learning Frontend Development
+- 💡 Interested in creating modern and responsive websites
+- 📊 Background in Accounting
+- 🎯 Goal: To become a skilled Frontend Developer
+
+---
+
+## 🚀 Technologies & Tools
+- 🌐 HTML5, CSS3, JavaScript
+- 🎨 Bootstrap, Tailwind CSS
+- ⚛️ Basic React (Learning)
+- 🛠️ Git & GitHub
+- 📊 MS Excel
+
+---
+
+## 📂 Projects
+- 🔹 Portfolio Website (Coming Soon)
+- 🔹 Landing Pages
+- 🔹 UI Designs
+
+---
+
+## 📈 GitHub Stats
+![Maryam's GitHub stats](https://github-readme-stats.vercel.app/api?username=maryamtayyabatech&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Connect with Me
+- 📧 Email: maryamtayyabatech 
+- 💼 LinkedIn: https://linkedin.com/in/yourprofile
+
+---
+
+## ⚡ Fun
