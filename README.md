@@ -1,42 +1,35 @@
-# Hi 👋, I'm Maryam Tayyaba
+ Hi 👋, I'm Maryam Tayyaba
 
-💻 Frontend Developer | 🎨 UI Enthusiast | 📊 Accountant
+💻 Frontend Developer  
 
----
 
-## 👩‍💻 About Me
-- 🌱 I’m currently learning Frontend Development
-- 💡 Interested in creating modern and responsive websites
-- 📊 Background in Accounting
-- 🎯 Goal: To become a skilled Frontend Developer
+ 👩‍💻 About Me
 
----
+- 🌱 I’m currently learning **Frontend Development**
+- 💡 Passionate about building modern and responsive websites  
+- 🎯 Focused on improving my skills in HTML, CSS, and JavaScript  
+- 🚀 Goal: To become a professional Frontend Developer  
 
-## 🚀 Technologies & Tools
-- 🌐 HTML5, CSS3, JavaScript
-- 🎨 Bootstrap, Tailwind CSS
-- ⚛️ Basic React (Learning)
-- 🛠️ Git & GitHub
-- 📊 MS Excel
 
----
+ 🚀 Technologies & Tools
+
+- 🌐 HTML5, CSS3, JavaScript  
+- 🎨 Bootstrap, Tailwind CSS  
+- ⚛️ React (Learning)  
+
 
 ## 📂 Projects
-- 🔹 Portfolio Website (Coming Soon)
-- 🔹 Landing Pages
-- 🔹 UI Designs
 
+- 🌐 Portfolio Website  
+- 📱 Responsive Web Designs  
+- 🎬 Creative Web Projects  
+
+ 🔗 Connect With Me
+
+- LinkdIn  www.linkedin.com/in/maryam-tayyaba-0270713aa
+- Gmail    maryamtayyabatech@gmail.com
 ---
 
-## 📈 GitHub Stats
-![Maryam's GitHub stats](https://github-readme-stats.vercel.app/api?username=maryamtayyabatech&show_icons=true&theme=tokyonight)
+⭐ Support
 
----
-
-## 📫 Connect with Me
-- 📧 Email: maryamtayyabatech 
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile
-
----
-
-## ⚡ Fun
+If you like my work, don’t forget to give a ⭐ to my repositories!
