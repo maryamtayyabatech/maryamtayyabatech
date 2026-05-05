@@ -1,7 +1,5 @@
  Hi 👋, I'm Maryam Tayyaba
 
----
-
 💻 Frontend Developer  
 
 ---
