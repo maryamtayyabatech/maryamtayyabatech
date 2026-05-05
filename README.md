@@ -1,7 +1,10 @@
  Hi 👋, I'm Maryam Tayyaba
 
+---
+
 💻 Frontend Developer  
 
+---
 
  👩‍💻 About Me
 
@@ -10,6 +13,7 @@
 - 🎯 Focused on improving my skills in HTML, CSS, and JavaScript  
 - 🚀 Goal: To become a professional Frontend Developer  
 
+---
 
  🚀 Technologies & Tools
 
@@ -17,12 +21,15 @@
 - 🎨 Bootstrap, Tailwind CSS  
 - ⚛️ React (Learning)  
 
+---
 
 ## 📂 Projects
 
 - 🌐 Portfolio Website  
 - 📱 Responsive Web Designs  
 - 🎬 Creative Web Projects  
+
+---
 
  🔗 Connect With Me
 
